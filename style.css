@@ -1,0 +1,71 @@
+h1 {
+  font-family: "ananda namaste";
+  font-size: 70px;
+
+  margin-left: 600px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.side-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: first baseline;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.item {
+  position: relative;
+  margin-top: 20px;
+}
+.certificate {
+  margin-top: 300px;
+}
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
+p,
+h2 {
+  text-align: center;
+  color: #000;
+  padding: 10px;
+  margin-left: 80px;
+}
+h4 {
+  text-align: center;
+}
+h3 {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-size: 30px;
+}
+.list {
+  justify-content: center;
+  margin-right: 200px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 20px;
+}
+body {
+  background-color: #f7f5c9;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+}
+.menu {
+  margin-top: 170px;
+  padding-right: 800px;
+}
+
+.menu a {
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
